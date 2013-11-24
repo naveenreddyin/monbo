@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Monbo
+_Comment=Monbo application
+Categories=GNOME;Utility;
+Exec=monbo
+Icon=monbo
+Terminal=false
+Type=Application
